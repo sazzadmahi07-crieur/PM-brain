@@ -1,12 +1,17 @@
+
 ---
-name: user-story-writing
-description: Write user stories with acceptance
-  criteria, edge cases, and error cases.
+name: pm-spec
+description: Produce a one-page product spec or PRD.
+  Use for product specs, feature briefs,
+  feature documentation, and requirements documents.
 ---
 
-# User Story Writing
+# Product Spec Skill
 
-Read and follow the instructions in
-../../../.cursor/skills/user-story-writing/SKILL.md.
+Read and follow the complete instructions in:
+
+../../../.cursor/skills/pm-spec/SKILL.md
 
 The referenced file is the source of truth.
+Do not duplicate or override its instructions.
+  
